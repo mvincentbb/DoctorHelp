@@ -1,7 +1,7 @@
-#PROJET DE GESTION DE PATIENT
+# PROJET DE GESTION DE PATIENT
 
 
-<INTRODUCTION>
+## INTRODUCTION
 	un medecin doit tres souvent gérer le dossier de ses patients qui sont répartis dans plusieurs endroit (centre de sante): 
 	* les analyses
 	* les consultations
@@ -12,17 +12,17 @@
 	* les transferts
 
 
-<OUTILS>
-	serveur
-	php 
-	javascript 
+## OUTILS
+	BACKEND php framewok(*laravel*)
+	FRONTEND javascript (  )
 
 
 
 
 
 
-<DESCRIPTION>
+
+## DESCRIPTION
 	**il s'agira de faire un outils de gestion qui comportera**
 	     un dossier medical 
 	     			(CONSULTATION , 
@@ -36,9 +36,8 @@
 
 
 
-<LIVRABLE>
+## LIVRABLE 
 	1 manuel de deploiement
-
 	2 dossier medical 
 	3 agenda medical
 	4 outils de  gestion de  rendez vous (demande accord lieu)
