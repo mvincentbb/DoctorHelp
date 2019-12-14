@@ -51,9 +51,26 @@
  	5 le medecin renseigne le rendez vous ie lieu heure etc.....(dependra du medecin)
  	6 le patient recois une notification et valide ou infirme le rendez vous
  	7 le medecin cree un dossier de patient et le renseigne * voir description_du_dossier_de patient.jpg
- 8
+	8 le medecin prend une decision apres une consultation * voir _DECISION_
+	9 un medecin(de laboratoire) aussi a des patients a gerer mais qui lui sont envoye par un autre medecin
+	10 le laboratoire ou le medecin de laboratoire apres avoir recu la demande d'analyse realise l,analyse et apres resultat informe ou envoi une notification au medecin qui recoit les resultat et complete ainsi le dossier du patient
+	11 le laboratoire et le centre d'imagerie se gere de la meme facon chacun peut envoyer des fichier .jpg .pdf ou .doc
+ 
 
 
 
-
+1 IDENTIFICATION BIOMETRIQUE
+3 GESTION DE RENDEZ VOUS ,AGENDA  ET NOTIFICATION COTE PATIENT_MEDECIN_LABORATOIRE
+2 DOSSIER MEDICALE
+	2.1 CONSUSTATION ET EXAMEN
+	2.2 DECISION
+		TRAITEMENT MEDICALE OU NON MEDICALE 
+		REFERENCE VERS UN AUTRE MEDECIN
+		TRANSFERT VERS UN AUTRE CENTRE
+3 GESTION D ANALYSE
+	3.1 BIOMEDICALE
+	3.2 RADIOLOGIQUE
+5 SUIVI DE PATIENT
+	
+		
 
