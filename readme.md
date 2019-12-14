@@ -43,7 +43,15 @@
 	4 outils de  gestion de  rendez vous (demande accord lieu)
 
 	
-
+## GRANDE FONCTIONNALITE
+ 1 un medecin peut s'enregistrer  et se connecter avec un identifiant et un mot de passe 
+ 2 un patient peut aussi s'enregister et se connecter avec un mot de passe et outils de reconnaissance biometrique
+ 3 un patient fait une demande de consultation en fonction des differents profils de specialite
+ 4 le medecin recoit une notification et accepte la demande 
+ 5 le medecin renseigne le rendez vous ie lieu heure etc.....(dependra du medecin)
+ 6 le patient recois une notification et valide ou infirme le rendez vous
+ 7 le medecin cree un dossier de patient et le renseigne * voir description_du_dossier_de patient.jpg
+ 8
 
 
 
